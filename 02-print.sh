@@ -22,5 +22,5 @@ echo -e "Hello\nWorld"
 # 0   RESET
 
 # Syntax : echo -e "\e[COLmMESSAGE\e[0m"
-echo -e "\e[33mYello Text"
+echo -e "\e[31mRed Text"
 echo Normal Text
