@@ -12,3 +12,4 @@ echo Hello, Today date is $DATE
 
 SUM=$((2+3))
 echo Two plus Three = $SUM
+
