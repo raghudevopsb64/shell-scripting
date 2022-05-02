@@ -8,3 +8,5 @@ else
   echo No, $name is not Available
 fi
 
+
+## Best practice, Always double quote your values and variables in Expressions
