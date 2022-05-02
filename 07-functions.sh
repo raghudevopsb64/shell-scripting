@@ -12,8 +12,14 @@
 sample() {
   echo I am a Sample Function
 }
+sample1() {
+  return 2
+}
 
 ## Main Program
 sample
 
 ## Function always be declared first and then we need to call them later in main program
+
+sample1
+echo Exit Status of sample1 = $?
