@@ -1,7 +1,7 @@
 #!/bin/bash
 Name=DevOps
 
-case $a in
+case $Name in
   DevOps)
     echo Welcome to DevOps training
     ;;
