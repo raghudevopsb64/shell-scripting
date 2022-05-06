@@ -10,3 +10,10 @@ do
   echo Fruit Name = $fruit
   sleep 1
 done
+
+# while loop, If we want to run the loop for number of times based on a expression then we can go with while loop
+a=10
+while [ $a -gt 0 ]; do
+  echo $a
+  a=$(($a-1))
+done
